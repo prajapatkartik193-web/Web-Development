@@ -1,0 +1,21 @@
+#car1 {
+    height: 100px;
+    width: 110px;
+    background-color: red;
+}
+
+#car2 {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 110px;
+    height: 90px;
+    background-color: blue;
+}
+
+#car3 {
+    position: absolute;
+    width: 130px;
+    height: 110px;
+    background-color: green;
+}
