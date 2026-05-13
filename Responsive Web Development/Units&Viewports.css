@@ -1,0 +1,62 @@
+*{
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 100px;    
+}
+
+#box {
+    height: 200px;
+    width: 400px;
+    background-color: red;
+}
+
+#inner {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+#parent {
+    height: 400px;
+    width: 300px;
+    background-color: aqua;
+}
+#child {
+    height: 40%;
+    width: 40%;
+    background-color: rgb(10, 223, 92);
+}
+
+#box {
+    height: 40vw;
+    width: 40vw;
+}
+
+#forem {
+    height: 500px;
+    width: 500px;
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+#h1 {
+    font-size: 4rem;
+}
+
+h4 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 2rem;
+    width: 20ch;
+    height: 22lh;
+}
+
+
